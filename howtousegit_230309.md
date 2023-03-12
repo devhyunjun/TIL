@@ -6,7 +6,7 @@
 <br> ctrl + l : 터미널 화면 청소
 <br> ctrl + insert : 복사
 <br> shift + insert : 붙여넣기
-<br>
+<br>d
 <br>ctrl + `(backtick, 백틱)
 <br> \```python\```
 <br> 링크 : [표시할 글자](이동할 주소)
